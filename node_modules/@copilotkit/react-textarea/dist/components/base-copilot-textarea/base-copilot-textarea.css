@@ -1,0 +1,9 @@
+/* src/components/base-copilot-textarea/base-copilot-textarea.css */
+.copilot-textarea.with-branding::after {
+  content: "";
+  position: absolute;
+}
+.copilot-textarea.no-branding::after {
+  content: "";
+}
+/*# sourceMappingURL=base-copilot-textarea.css.map */
